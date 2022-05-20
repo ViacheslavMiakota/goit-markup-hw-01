@@ -82,8 +82,7 @@ body {
 .site-nav .link:focus {
   color: var(--accent-color);
 }
-.item {
-}
+
 .site-nav .item + .item {
   margin-left: 50px;
 }
